@@ -5,7 +5,7 @@ This is the code repository for [Build Supercomputers with Raspberry Pi 3](https
 This book's mission is to effectively instruct anyone, with basic computer hardware and software skills, on how to construct an affordable Pi3 supercomputer. If you are looking at performing high-level computation with microchips, then this book is for you.
 
 ## Instructions and Navigation
-All of the code is organized into folders. The commands and instructions will look like the following:
+All the code is organized into folders. The commands and instructions will look like the following:
 
     #include <math.h> // math library
     #include <stdio.h>// Standard Input / Output library

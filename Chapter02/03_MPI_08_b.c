@@ -2,7 +2,7 @@
  *          *** MPI pi code. ***            *
  *                                          *
  * This numerical integration calculates    *
- * pi using MPI. It converges very slowely, *
+ * pi using MPI. It converges very slowly, *
  * requiring 5 million iterations for       *
  * 48 decimal place accuracy.               *
  *                                          *

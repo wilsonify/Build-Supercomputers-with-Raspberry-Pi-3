@@ -50,7 +50,7 @@ double etime,           /* elapsed time in seconds */
 	newval[TPOINTS+2];  /* values at time (t+dt) */
 
 /*  ------------------------------------------------------------------------ *
- *  Master obtains timestep input value from user and broadcasts it          *
+ *  Master obtains time step input value from user and broadcasts it          *
  *  ------------------------------------------------------------------------ */
 void init_master(void)
 {
@@ -72,7 +72,7 @@ void init_master(void)
 }// End of void init_master(void)
 
 /*  ------------------------------------------------------------------------- *
- *  Workers receive timestep input value from master                          *
+ *  Workers receive time step input value from master                          *
  *  ------------------------------------------------------------------------- */
 void init_workers(void)
 {

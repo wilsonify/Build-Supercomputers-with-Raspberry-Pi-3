@@ -1,8 +1,8 @@
 /***************************************** 
  * *** Gregory_Leibniz MPI pi code. ***  *
  *                                       *
- * This infinate series calculates pi    *
- * using MPI. It converges very slowely, *
+ * This infinite series calculates pi    *
+ * using MPI. It converges very slowly, *
  * requiring 2.15 billion iterations for *
  * ten decimal place accuracy.           *
  *                                       *

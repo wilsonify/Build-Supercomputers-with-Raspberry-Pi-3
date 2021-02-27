@@ -1,7 +1,7 @@
 /******************************************* 
  *     *** Ramanujan MPI pi code. ***      *
  *                                         *
- * This infinite series concerges rapidly. *
+ * This infinite series converges rapidly. *
  * Only two iterations for 15 decimal      *
  * place accuracy.                         * 
  *                                         *

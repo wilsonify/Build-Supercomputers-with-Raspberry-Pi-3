@@ -1,8 +1,8 @@
 /***************************************** 
  *     *** Unknown MPI pi code. ***      *
  *                                       *
- * This infinate series calculates pi    *
- * using MPI. It converges very slowely, *
+ * This infinite series calculates pi    *
+ * using MPI. It converges very slowly, *
  * requiring 1 billion iterations for    *
  * eight decimal place accuracy.         *
  *                                       *

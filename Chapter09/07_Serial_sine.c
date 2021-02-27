@@ -2,7 +2,7 @@
  * *** Serial sine(x) code ***  *
  *                              *
  * Taylor series representation *
- * of the sine(x) functon.      * 
+ * of the sine(x) function.      *
  *                              *
  * Author: Carlos R. Morrison   *
  *                              *

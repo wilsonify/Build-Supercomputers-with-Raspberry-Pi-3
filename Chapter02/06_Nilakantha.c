@@ -1,8 +1,8 @@
 /****************************************** 
  *    *** Nilakantha MPI pi code. ***     *
  *                                        *
- * This infinate series calculates pi     *  
- * using MPI. It converges slowely,       *
+ * This infinite series calculates pi     *
+ * using MPI. It converges slowly,       *
  * requiring 750 iterations for 9 decimal *
  * place accuracy.                        *
  *                                        *

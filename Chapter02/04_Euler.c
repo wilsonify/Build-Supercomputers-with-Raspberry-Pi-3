@@ -1,8 +1,8 @@
 /***************************************** 
  *      *** Euler MPI pi code. ***       *
  *                                       *
- * This infinate series calculates pi    *
- * using MPI. It converges very slowely, *
+ * This infinite series calculates pi    *
+ * using MPI. It converges very slowly, *
  * requiring 7.6 million iterations for  *
  * eight decimal place accuracy.         *
  *                                       *

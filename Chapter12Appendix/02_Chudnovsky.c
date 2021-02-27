@@ -1,7 +1,7 @@
 /************************************** 
  * Chudnovsky MPI pi code.            *
  *                                    *
- * This infinate series concerges     *
+ * This infinite series converges     *
  * rapidly. Only two iterations for   *
  * 15 decimal place accuracy.         *
  *                                    *
